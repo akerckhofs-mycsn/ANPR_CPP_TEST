@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/include/CDK.h
+CDKMsg.h
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/include/CDKMsg.h
+CDKQueue.h
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/include/CDKQueue.h
+
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/include/CDKMsg.h
+
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/include/CDKQueue.h
+CDKMsg.h
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/include/CDKMsg.h
+
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/main.cpp
+stdlib.h
+-
+unistd.h
+-
+stdint.h
+-
+inttypes.h
+-
+stdio.h
+-
+include/CDK.h
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/include/CDK.h
+include/CDKMsg.h
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/include/CDKMsg.h
+

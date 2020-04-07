@@ -1,0 +1,3 @@
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/build/CMakeFiles/rebuild_cache.dir
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/build/CMakeFiles/ANPR_TEST.dir
+/mnt/g/Dev/myCSN/Biostoom/ANPR_CPP_TEST/build/CMakeFiles/edit_cache.dir

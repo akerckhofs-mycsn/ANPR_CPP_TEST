@@ -1,0 +1,1 @@
+/usr/bin/c++  -m32 -Xlinker   CMakeFiles/ANPR_TEST.dir/main.cpp.o  -o ANPR_TEST -lcdk 
